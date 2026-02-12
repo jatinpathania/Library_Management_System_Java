@@ -328,12 +328,6 @@ Possible improvements for extended functionality:
 
 ---
 
-## 📄 License
-
-This is an educational project. Free to use and modify for learning purposes.
-
----
-
 ## 👨‍💻 Author
 
 Educational Project - Library Management System
@@ -344,6 +338,3 @@ Educational Project - Library Management System
 
 For questions or issues, refer to the inline code documentation or review class descriptions above.
 
----
-
-**Last Updated**: February 13, 2026
