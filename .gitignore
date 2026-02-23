@@ -1,0 +1,30 @@
+# Compiled Java files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# Build directories
+bin/
+build/
+target/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Gradle/Maven
+.gradle/
+.classpath
+.project
+.settings/
